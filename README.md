@@ -1,7 +1,6 @@
 # Hi there, I'm Isira Wasala 👋
 
-Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate with a strong passion for multi-programming and a keen interest in collaborating on innovative and impactful projects.
-
+Welcome to my GitHub profile! I am a dedicated technology enthusiast with a strong passion for multi-programming and a keen interest in collaborating on innovative and impactful projects.
 
 ![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
 
@@ -40,9 +39,16 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 ### Featured Project
 - **Project Name**: A brief description of your project. What problem does it solve? What technologies does it use?
 
+<details>
+  <summary>See All Projects</summary>
+
 ### Other Projects
-- [Project Name](#): A brief description.
-- [Project Name](#): A brief description.
+- [Project Name 1](#): A brief description.
+- [Project Name 2](#): A brief description.
+- [Project Name 3](#): A brief description.
+- [Project Name 4](#): A brief description.
+
+</details>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
