@@ -4,9 +4,6 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 
 ![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
 
-[Isira Wasala - GitHub Banner](https://www.canva.com/design/DAGIX1f6hGU/TBBMXg3FncK8CHgD-zt38A/watch?utm_content=DAGIX1f6hGU&utm_campaign=designshare&utm_medium=embeds&utm_source=link) by Isira Wasala
-
-
 ## About Me
 
 - 👀 **Interests**: Multi-programming
