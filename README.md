@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate with a strong passion for multi-programming and a keen interest in collaborating on innovative and impactful projects.
 
-![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
+![Isira's GitHub Banner](https://user-images.githubusercontent.com/https://www.canva.com/design/DAGIX1f6hGU/atF5XPqeRiGVp4ruf2oadQ/watch?utm_content=DAGIX1f6hGU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## About Me
 
