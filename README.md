@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about multi-programming and love to collaborate on exciting projects. 
 
-##![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
+![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
 
 ## About Me
 
@@ -25,8 +25,9 @@ Welcome to my GitHub profile! I'm passionate about multi-programming and love to
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frameworks and Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## GitHub Stats
 ![Isira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isira-Wasala&show_icons=true&theme=radical)
@@ -50,8 +51,3 @@ Welcome to my GitHub profile! I'm passionate about multi-programming and love to
 ---
 
 ⭐️ From [Isira-Wasala](https://github.com/Isira-Wasala)
-
-<!---
-Isira-Wasala/Isira-Wasala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
