@@ -39,8 +39,10 @@ Welcome to my GitHub profile! I am a dedicated technology enthusiast with a stro
 ### Featured Project
 - **Project Name**: A brief description of your project. What problem does it solve? What technologies does it use?
 
-<details>
-  <summary>See All Projects</summary>
+### <a href="#all-projects" style="text-decoration: none; display: inline-block; padding: 8px 16px; background-color: #0366d6; color: white; border-radius: 6px;">See All Projects</a>
+
+<details id="all-projects">
+  <summary>Click to expand...</summary>
 
 ### Other Projects
 - [Project Name 1](#): A brief description.
