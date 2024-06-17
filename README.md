@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-[![Java](https://skillicons.dev/icons?i=java,html,css,js,python,r,dart,sql&perline=5)](https://skillicons.dev)
-
 ### Frameworks and Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
