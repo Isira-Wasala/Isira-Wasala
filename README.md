@@ -1,6 +1,7 @@
 # Hi there, I'm Isira Wasala 👋
 
-Welcome to my GitHub profile! I'm passionate about multi-programming and love to collaborate on exciting projects. 
+Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate with a strong passion for multi-programming and a keen interest in collaborating on innovative and impactful projects.
+
 
 ![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
 
