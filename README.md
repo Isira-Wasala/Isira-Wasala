@@ -1,6 +1,6 @@
 # Hi there, I'm Isira Wasala 👋
 
-Welcome to my GitHub profile! I am a dedicated technology enthusiast with a strong passion for multi-programming and a keen interest in collaborating on innovative and impactful projects.
+Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate with a strong passion for multi-programming and a keen interest in collaborating on innovative and impactful projects.
 
 ![Isira's GitHub Banner](https://user-images.githubusercontent.com/your-image-url)
 
@@ -39,10 +39,8 @@ Welcome to my GitHub profile! I am a dedicated technology enthusiast with a stro
 ### Featured Project
 - **Project Name**: A brief description of your project. What problem does it solve? What technologies does it use?
 
-### <a href="#all-projects" style="text-decoration: none; display: inline-block; padding: 8px 16px; background-color: #0366d6; color: white; border-radius: 6px;">See All Projects</a>
-
-<details id="all-projects">
-  <summary>Click to expand...</summary>
+<details>
+  <summary>See All Projects</summary>
 
 ### Other Projects
 - [Project Name 1](#): A brief description.
