@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 - 💞️ **Looking to Collaborate On**: Any project that boosts my knowledge
 - 📫 **Contact Me**: [isirawasala01@gmail.com](mailto:isirawasala01@gmail.com)
 - 😄 **Pronouns**: he/him
-- 🌍 **Portfolio** : (https://isira-wasala.vercel.app)
+- 🌍 **Portfolio** : https://isira-wasala.vercel.app
 
 
 
