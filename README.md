@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 ## Projects
 
 ### Featured Project
-- **Project Name**: A brief description of your project. What problem does it solve? What technologies does it use?
+- **Project Name**: Will be added soon!
 
 <details>
   <summary>See All Projects</summary>
