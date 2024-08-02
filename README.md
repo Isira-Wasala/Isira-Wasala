@@ -39,16 +39,17 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 ## Projects
 
 ### Featured Project
-- **Project Name**: Will be added soon!
+- **Project Name**: Cinestream: A social-streaming platform that allows users to watch live and pre-uploaded exclusive content and it also allows content creators to monetize their content in multiple ways.
 
 <details>
   <summary>See All Projects</summary>
 
 ### Other Projects
-- [Project Name 1](#): A brief description.
-- [Project Name 2](#): A brief description.
-- [Project Name 3](#): A brief description.
-- [Project Name 4](#): A brief description.
+- [Cinestream](https://github.com/Isira-Wasala/Cinestream): Link to View.
+- [Queue Management System for Food Center](https://github.com/Isira-Wasala/Java-Queue-Management-System-for-Food-Center): This system allows managers to maintain their customers and also allows customers to save time. This Queue Management System is developed with JAVA.
+- [React Portfolio](https://github.com/Isira-Wasala/React-Portfolio): This portfolio website is a fully functional website that allows people to maintain their personal brand very effectively. This portfolio is made with REACT, TAILWIND CSS, and EMAIL JS and hosted on Vercel.
+- [Student Progression Tracker](https://github.com/Isira-Wasala/Python-Student-Progression-Outcome-System): This program provides grades and student progression levels based on their marks.
+- [Visit for More](https://github.com/Isira-Wasala?tab=repositories)
 
 </details>
 
