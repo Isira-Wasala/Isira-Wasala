@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I am a dedicated Computer Science undergraduate wi
 
 - 👀 **Interests**: Multi-programming
 - 🌱 **Currently Learning**: React
-- 💻 **Proficient In**: Java, HTML, Python, Flutter (Dart), SQL, R
+- 👨‍💻 **Proficient In**: Java
+- 💻 **Experience In**: Java, React, HTML, Python, Flutter (Dart), SQL, R, Figma
 - 💞️ **Looking to Collaborate On**: Any project that boosts my knowledge
 - 📫 **Contact Me**: [isirawasala01@gmail.com](mailto:isirawasala01@gmail.com)
 - 😄 **Pronouns**: he/him
